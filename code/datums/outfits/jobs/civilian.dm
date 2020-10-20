@@ -193,8 +193,6 @@
 /decl/hierarchy/outfit/job/pilot
 	name = OUTFIT_JOB_NAME("Pilot")
 	shoes = /obj/item/clothing/shoes/black
-	uniform = /obj/item/clothing/under/rank/pilot1
-	suit = /obj/item/clothing/suit/storage/toggle/bomber/pilot
 	gloves = /obj/item/clothing/gloves/fingerless
 	glasses = /obj/item/clothing/glasses/fakesunglasses/aviator
 	l_ear = /obj/item/radio/headset/pilot/alt

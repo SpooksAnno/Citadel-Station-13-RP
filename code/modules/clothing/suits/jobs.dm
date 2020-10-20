@@ -259,6 +259,7 @@
 	body_parts_covered = 0
 
 //Pilot
+/*
 /obj/item/clothing/suit/storage/toggle/bomber/pilot
 	name = "pilot jacket"
 	desc = "A thick, blue bomber jacket."
@@ -271,9 +272,10 @@
 			"Vox" = 'maps/southern_cross/icons/mob/species/vox/sc_suit.dmi'
 			)
 	min_cold_protection_temperature = SPACE_SUIT_MIN_COLD_PROTECTION_TEMPERATURE
+*/
 
 //Misc
-
+/*
 /obj/item/clothing/suit/storage/hooded/wintercoat/medical/sar
 	name = "search and rescue winter coat"
 	desc = "A heavy winter jacket. A white star of life is emblazoned on the back, with the words search and rescue written underneath."
@@ -287,3 +289,4 @@
 	/obj/item/dnainjector,/obj/item/reagent_containers/dropper,/obj/item/reagent_containers/syringe,/obj/item/reagent_containers/hypospray,
 	/obj/item/healthanalyzer,/obj/item/reagent_containers/glass/bottle,/obj/item/reagent_containers/glass/beaker,
 	/obj/item/reagent_containers/pill,/obj/item/storage/pill_bottle)
+*/

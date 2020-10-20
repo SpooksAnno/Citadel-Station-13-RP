@@ -869,10 +869,6 @@ Swimsuits
 	path = /obj/item/clothing/under/fluff/v_nanovest
 
 // Uniform slot
-/datum/gear/uniform/pilot
-	display_name = "Pilot Uniform"
-	path = /obj/item/clothing/under/rank/pilot2
-	allowed_roles = list("Pilot")
 
 /datum/gear/uniform/uniform_janitor_starcon
 	display_name = "Janitor Jumpsuit - Alt"

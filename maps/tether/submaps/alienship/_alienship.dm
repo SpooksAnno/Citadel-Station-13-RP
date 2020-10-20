@@ -1,4 +1,4 @@
-// -- Datums -- //
+/*// -- Datums -- //
 
 /obj/effect/overmap/visitable/sector/alienship
 	name = "Unknown Vessel"
@@ -174,3 +174,4 @@
 // -- Turfs -- //
 /turf/simulated/shuttle/floor/alienplating/vacuum
 	initial_gas_mix = GAS_STRING_VACUUM
+*/

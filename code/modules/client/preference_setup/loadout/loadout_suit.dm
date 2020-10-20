@@ -612,12 +612,6 @@ datum/gear/suit/miscellaneous/storage/lawyer/bridgeofficerparade
 	display_name = "Civilian GN Crop Jacket"
 	path = /obj/item/clothing/suit/storage/fluff/gntop
 
-/datum/gear/suit/bomber_pilot
-	display_name = "Civilian Bomber Jacket - Pilot"
-	path = /obj/item/clothing/suit/storage/toggle/bomber/pilot
-
-
-
 /datum/gear/suit/operations_coat
 	display_name = "Command Operations Jacket"
 	path = /obj/item/clothing/suit/storage/toggle/operations_coat/command
