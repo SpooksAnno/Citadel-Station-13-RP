@@ -197,6 +197,10 @@ var/list/flooring_types
 /decl/flooring/tiling/new_tile/techmaint
 	icon_base = "techmaint"
 
+/decl/flooring/tiling/new_tile/hospital
+	icon = 'icons/turf/flooring/tiles_vr.dmi'
+	icon_base = "hospital"
+
 /decl/flooring/tiling/new_tile/monofloor
 	icon_base = "monofloor"
 

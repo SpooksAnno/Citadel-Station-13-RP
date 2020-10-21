@@ -387,7 +387,7 @@ var/list/name_to_material
 	explosion_resistance = 10
 	icon_base = "hull"
 	icon_reinf = "reinf_mesh"
-	icon_colour = "#666677"
+	icon_colour = "#b5b3aa"
 
 /datum/material/steel/hull/place_sheet(var/turf/target) //Deconstructed into normal steel sheets.
 	new /obj/item/stack/material/steel(target)

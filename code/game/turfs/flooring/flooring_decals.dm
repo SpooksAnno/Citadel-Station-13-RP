@@ -783,6 +783,10 @@ var/list/floor_decals = list()
 	name = "corner oldtile diagonal"
 	icon_state = "corner_oldtile_diagonal"
 
+/obj/effect/floor_decal/corner_oldtile/white/strip
+	name = "corner oldtile diagonal"
+	icon_state = "corner_oldtile_strip"
+
 /obj/effect/floor_decal/corner_oldtile/white/full
 	name = "corner oldtile full"
 	icon_state = "corner_oldtile_full"
@@ -799,6 +803,10 @@ var/list/floor_decals = list()
 /obj/effect/floor_decal/corner_oldtile/blue/full
 	name = "corner oldtile full"
 	icon_state = "corner_oldtile_full"
+
+/obj/effect/floor_decal/corner_oldtile/blue/strip
+	name = "corner oldtile strip"
+	icon_state = "corner_oldtile_strip"
 
 /obj/effect/floor_decal/corner_oldtile/yellow
 	name = "corner oldtile"

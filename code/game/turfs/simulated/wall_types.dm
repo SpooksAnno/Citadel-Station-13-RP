@@ -3,6 +3,30 @@
 /turf/simulated/wall/r_wall/Initialize(mapload, materialtype, rmaterialtype, girdertype)
 	return ..(mapload, "plasteel","plasteel") //3strong
 
+/turf/simulated/wall/shull
+	icon_state = "hull"
+
+/turf/simulated/wall/rshull
+	icon_state = "hull"
+
+/turf/simulated/wall/pshull
+	icon_state = "hull"
+
+/turf/simulated/wall/rpshull
+	icon_state = "hull"
+
+/turf/simulated/wall/dshull
+	icon_state = "hull"
+
+/turf/simulated/wall/rdshull
+	icon_state = "hull"
+
+/turf/simulated/wall/thull
+	icon_state = "hull"
+
+/turf/simulated/wall/rthull
+	icon_state = "hull"
+
 /turf/simulated/wall/shull/Initialize(mapload, materialtype, rmaterialtype, girdertype)	//Spaaaace ship.
 	return ..(mapload, MAT_STEELHULL, null, MAT_STEELHULL)
 /turf/simulated/wall/rshull/Initialize(mapload, materialtype, rmaterialtype, girdertype)

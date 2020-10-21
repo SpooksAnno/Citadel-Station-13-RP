@@ -118,6 +118,12 @@
 	icon_state = "techfloor_gray"
 	initial_flooring = /decl/flooring/tiling/tech
 
+/turf/simulated/floor/tiled/hospital
+	name = "floor"
+	icon = 'icons/turf/flooring/tiles_vr.dmi'
+	icon_state = "hospital"
+	initial_flooring = /decl/flooring/tiling/new_tile/hospital
+
 /turf/simulated/floor/tiled/monotile
 	name = "floor"
 	icon = 'icons/turf/flooring/tiles_vr.dmi'
