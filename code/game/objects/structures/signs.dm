@@ -278,8 +278,18 @@
 
 /obj/structure/sign/periodic
 	name = "periodic table"
-	desc = "A sign reminding those visiting of the elements of the periodic table- though, they should have memorized them by now."
+	desc = "A sign reminding those visiting of the elements of the periodic table - though, they should have memorized them by now."
 	icon_state = "periodic"
+
+/obj/structure/sign/anatomy
+	name = "anatomy chart"
+	desc = "A weathered diagram displaying the components of the human body - which probably applies to 10% of the crew."
+	icon_state = "anatomy"
+
+/obj/structure/sign/drill
+	name = "drill chart"
+	desc = "A faded one-page manual for the 'new' model of surgical drill."
+	icon_state = "drill"
 
 /obj/structure/sign/double/maltesefalcon	//The sign is 64x32, so it needs two tiles. ;3
 	name = "The Maltese Falcon"
